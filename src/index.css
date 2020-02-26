@@ -1,7 +1,10 @@
 body,
 html {
-  font-family: "Squada One", cursive;
+  font-family: 'Righteous' ;
   margin: 0;
   padding: 0;
 }
 
+.fa-check{
+  font-size: 3em;
+}
